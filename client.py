@@ -11,6 +11,7 @@ port = 12345
 file_path = 'E:\\exercise project\\TCP_clientserver\\client\\'
 md5_path ='E:\\exercise project\\TCP_clientserver\\client_md5.txt'
 
+
 def get_md5_file():
     md5_path = 'E:\\exercise project\\TCP_clientserver\\client_md5.txt'
     path = 'E:\\exercise project\\TCP_clientserver\\client'
